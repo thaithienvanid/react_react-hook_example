@@ -1,0 +1,36 @@
+@import "~antd/dist/antd.css";
+
+.App {
+}
+
+.site-layout-content {
+  min-height: 75vh;
+  padding: 24px;
+  background: #fff;
+}
+
+.site-layout-login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 75vh;
+  padding: 24px;
+  background: #fff;
+}
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.user {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
